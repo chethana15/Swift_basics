@@ -5,5 +5,7 @@
         <page name='1_Handling_optionals'/>
         <page name='2_Arrays'/>
         <page name='3_sets'/>
+        <page name='4_dictionary'/>
+        <page name='5_tuples'/>
     </pages>
 </playground>
