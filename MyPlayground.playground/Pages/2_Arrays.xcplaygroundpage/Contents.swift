@@ -9,7 +9,7 @@ cities.insert("Mumbai", at: 2)
 var sortedNames = cities.sorted { $0.localizedCaseInsensitiveCompare($1) == ComparisonResult.orderedAscending
 }
 sortedNames
-var sortedNames2 = cities.sorted { $1.localizedCaseInsensitiveCompare($0) == ComparisonResult.orderedDescending }
+var sortedNames2 = cities.sorted { $0.localizedCaseInsensitiveCompare($1) == ComparisonResult.orderedDescending }
 sortedNames2
 //modification
 cities[0] = "Banglore"

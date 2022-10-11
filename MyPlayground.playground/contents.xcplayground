@@ -4,5 +4,6 @@
         <page name='Untitled Page 2'/>
         <page name='1_Handling_optionals'/>
         <page name='2_Arrays'/>
+        <page name='3_sets'/>
     </pages>
 </playground>
